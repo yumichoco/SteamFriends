@@ -16,8 +16,6 @@
 
 | Avatar                                                                            | Name              | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS         | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-05-22 07:07:09 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT              | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-05-22 07:07:09 |
 | ![](https://avatars.steamstatic.com/3956adaa2b02d535f85a36fc95ef29bfaadb163e.jpg) | miniming          | [76561198361215119](https://steamcommunity.com/profiles/76561198361215119/) | ✅           | 2024-12-01 14:43:11 |          |                     |
 | ![](https://avatars.steamstatic.com/67923b8b8d3420ecbc8e93c5ee43150d2d9a754b.jpg) | 年华落丹青             | [76561198986115258](https://steamcommunity.com/profiles/76561198986115258/) | ✅           | 2022-10-22 10:17:40 |          |                     |
 | ![](https://avatars.steamstatic.com/ca1b7d787f72126b857fe063f211e068f769981a.jpg) | 小樱                | [76561198122387352](https://steamcommunity.com/profiles/76561198122387352/) | ✅           | 2022-08-01 12:31:14 |          |                     |
